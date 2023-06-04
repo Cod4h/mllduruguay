@@ -411,7 +411,7 @@ set_leader_URG = {
 			create_country_leader = {
 				name = "Edgardo Novick"
 				picture = "edgardo_novick.dds"
-				ideology = Neutral_green
+				ideology = Western_Autocracy
 				traits = {
 					western_Western_Autocracy
 				}
