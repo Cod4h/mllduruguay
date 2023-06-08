@@ -3,8 +3,9 @@ tags={
 	"Graphics"
 	"Fixes"
 }
-name="MD: Uruguay"
+name="Millennium Dawn: Uruguay"
 dependencies={
 	"Millennium Dawn: A Modern Day Mod"
 }
 supported_version="1.12.14"
+remote_file_id="2986643617"
